@@ -1,5 +1,8 @@
-### Hi there 👋
-
+Hi there 👋,<br>
+🌱 I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
+🔭 I’m currently working on Computer Graphics, stimulations and related algorithms. Also interested in Game Development.<br>
+📫 You can find me through <a href="https://www.linkedin.com/in/avishka-weebadde-429a32144/">linkedin</a>.<br>
+⚡ Interests: OpenGL, SFML, Unity Game Development, Graphical Stimulations, Algorithms.
 <!--
 **AvishkaWeebadde/AvishkaWeebadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
