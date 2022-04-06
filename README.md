@@ -3,6 +3,8 @@ Hi there 👋,<br>
 🔭 I’m currently working on Computer Graphics, stimulations and related algorithms. Also interested in Game Development.<br>
 📫 You can find me through <a href="https://www.linkedin.com/in/avishka-weebadde-429a32144/">linkedin</a>.<br>
 ⚡ Interests: OpenGL, SFML, Unity Game Development, Graphical Stimulations, Algorithms.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)
 <!--
 **AvishkaWeebadde/AvishkaWeebadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
