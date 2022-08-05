@@ -6,7 +6,7 @@ Hi there 👋,<br>
           - Game Development<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)&nbsp;&nbsp;&nbsp;
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishkaWeebadde&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishkaWeebadde&show_icons=true&theme=tokyonight)<br>
 <!--
 **AvishkaWeebadde/AvishkaWeebadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=AvishkaWeebadde&style=flat-square)
 -->
 
-
+- 🌱 currently learning Vulkan API, Rust, flutter.
 
