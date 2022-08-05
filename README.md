@@ -2,7 +2,7 @@ Hi there 👋,<br>
  - I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
  - Interests : <br>
            - Graphics Programming ( OpenGL, Vulkan )<br> 
-           - Backend Engineering ( Spring Boot)<br> 
+           - Backend Engineering ( Spring Boot )<br> 
            - Game Development<br>
 - 🌱 currently learning Vulkan API, Rust, flutter, Blender, Unreal Engine.<br><br><br>
 
