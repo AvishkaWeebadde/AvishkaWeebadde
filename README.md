@@ -4,8 +4,8 @@ Hi there 👋,<br>
            - Graphics Programming ( OpenGL, Vulkan )<br> 
            - Backend Engineering ( Spring Boot)<br> 
            - Game Development<br>
-- 🌱 currently learning Vulkan API, Rust, flutter, Blender, Unreal Engine.<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)&nbsp;&nbsp;&nbsp;
+- 🌱 currently learning Vulkan API, Rust, flutter, Blender, Unreal Engine.<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)&nbsp;&nbsp;&nbsp;<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishkaWeebadde&show_icons=true&theme=tokyonight)<br>
 <!--
 **AvishkaWeebadde/AvishkaWeebadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
