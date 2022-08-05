@@ -1,6 +1,6 @@
 Hi there 👋,<br>
- I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
- Interests : <br>
+ - I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
+ - Interests : <br>
           - Graphics Programming ( OpenGL, Vulkan )<br> 
           - Backend Engineering<br> 
           - Game Development<br>
