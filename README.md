@@ -2,7 +2,7 @@ Hi there 👋,<br>
  - I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
  - Interests : <br>
           - Graphics Programming ( OpenGL, Vulkan )<br> 
-          - Backend Engineering<br> 
+          - Backend Engineering ( Spring Boot)<br> 
           - Game Development<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)&nbsp;&nbsp;&nbsp;
@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=AvishkaWeebadde&style=flat-square)
 -->
 
-- 🌱 currently learning Vulkan API, Rust, flutter.
+- 🌱 currently learning Vulkan API, Rust, flutter, Blender, Unreal Engine.
 
