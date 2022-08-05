@@ -1,8 +1,9 @@
 Hi there 👋,<br>
 🌱 I’m Avishka, currently studying Computer Science at University of Jaffna, Sri Lanka.<br>
-🔭 I’m currently working on Computer Graphics, stimulations and related algorithms. Also interested in Game Development.<br>
-📫 You can find me through <a href="https://www.linkedin.com/in/avishka-weebadde-429a32144/">linkedin</a>.<br>
-⚡ Interests: OpenGL, SFML, Unity Game Development, Graphical Stimulations, Algorithms.
+🔭 Interests : <br>
+          - Graphics Programming ( OpenGL, Vulkan )<br> 
+          - Backend Engineering<br> 
+          - Game Development<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AvishkaWeebadde&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AvishkaWeebadde&show_icons=true&theme=tokyonight)
