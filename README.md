@@ -1,10 +1,9 @@
 Hi there 👋,<br>
  - I’m Avishka, currently working as a software engineer at CodeGen International ( Pvt ) Ltd.<br>
  - Interests : <br>
-           - Graphics Programming ( OpenGL, Vulkan )<br> 
-           - Backend Engineering ( Spring Boot )<br> 
+           - Backend Engineering<br> 
            - Game Development<br>
-- 🌱 currently learning Spring, Angular, C++ and Go.<br><br><br>
+- 🌱 currently learning Java, Typescript, Go.<br><br><br>
 
 <!--
 **AvishkaWeebadde/AvishkaWeebadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
